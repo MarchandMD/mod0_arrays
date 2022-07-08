@@ -23,3 +23,9 @@ boolean_values.count
 
 # will return "first" in a non-destructive way
 bases[0] 
+
+# #any?
+# is a predicate method, returning true or false; if a value is in the array, then it'll return true; is part of the Enumberables library
+
+# will return true
+bases.any?
