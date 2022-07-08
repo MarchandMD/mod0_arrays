@@ -17,3 +17,9 @@ flohwts.shift
 
 # will count the values using cardinal numbers
 boolean_values.count
+
+# index positions
+# arrays start at 0 and count up from there, like this: 
+
+# will return "first" in a non-destructive way
+bases[0] 
